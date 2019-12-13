@@ -16,8 +16,7 @@
 title: Ryan's Personal Page
 email: rlintott@sfu.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Stuff I find interesting, these are projects and pursuits that I think will help me grow as a software engineer. 
-  Learning is fun.
+  Projects I've done, thoughts I've had.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
