@@ -25,6 +25,7 @@ github_username:  rlintott
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
+logo: ./profile.png
 plugins:
   - jekyll-feed
 
