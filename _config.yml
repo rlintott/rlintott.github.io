@@ -1,6 +1,10 @@
-title: Minimal theme
+title: Ryan Lintott
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: This is my blog/website. I am not a web designer. 
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+paginate: 5
+paginate_path: "/page:num/"
+plugins: 
+  - jekyll-paginate
