@@ -4,6 +4,7 @@ title: "Mandelbrot/Julia Set Web Toy"
 categories: [random, programming]
 tags: [webgl, mandelbrot, julia, fractals]
 excerpt_separator: <!--more-->
+comments: true
 author: Ryan
 ---
 
