@@ -12,9 +12,9 @@ author: Ryan
 ### Mandelbrot/Julia Set Web Toy
 
 
-I became interested in writing a fractal generating program duribg my computer graphics course at university. 
+I became interested in writing a fractal generating program while attending a computer graphics course at university. 
 
-[This](https://rlintott.github.io/fractal) is what I've made. It's a simple web-app, but I find it quite enjoyable to play around with. 
+[This](https://rlintott.github.io/fractal) is what I've made. It's a simple web-app, but I find it quite fun to play around with. 
 
 Given that the fractal generating algorithm runs on the GPU, there are limits to what it can do. It cannot zoom indefinitely, since it can only use floating point numbers for its calculations, and floating point numbers only have a finite accuracy. So if you zoom in far enough, things will get pixelated and weird. To zoom in indefinitely, you would have to use arbitrary precision arithmetic, which is not natural to implement on a GPU. 
 
