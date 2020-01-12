@@ -1,0 +1,5 @@
+main:
+  - title: "Blog"
+    url: ./
+  - title: "Projects"
+    url: ./projects/index.html

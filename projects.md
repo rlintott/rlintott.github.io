@@ -1,10 +1,6 @@
 ---
-layout: default
-title: Projects
+layout: single
+author_profile: true
 ---
 
-### Mandelbrot/Julia Set Web Toy
-
-[Link]({% post_url 2019-12-16-fractal%})
-
-More to come soon...
+Coming soon...
